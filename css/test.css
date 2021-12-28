@@ -1,0 +1,23 @@
+h1{
+font-size: 30px;
+color:red
+;
+
+}
+h2{
+font-size: 30px;
+color:rgb(38, 0, 255)
+;
+
+}
+
+.big{
+font-size: 60px;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
+span{
+color:violet;
+}
